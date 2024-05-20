@@ -1,0 +1,40 @@
+ body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFE8C8;
+  }
+  
+  .container {
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+    background: linear-gradient(#FF7F3E, #FFDA78) ;
+  }
+  
+  .title {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .location-search input {
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #FFE8C8;
+    border-radius: 15px;
+  }
+  
+  .location-search button {
+    padding: 10px 20px;
+    background-color: #FFE8C8;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  
+  .weather-display {
+    margin-top: 20px;
+  }
+  
